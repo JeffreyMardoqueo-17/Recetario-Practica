@@ -55,7 +55,6 @@ body {
     text-decoration: none;
     /* Elimina el subrayado del enlace */
     margin-top: 20px;
-    /* Ajusta el valor según sea necesario */
 }
 
 .vermas::before {
